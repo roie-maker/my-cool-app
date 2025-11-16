@@ -1,0 +1,8 @@
+# No external dependencies required!
+# This game uses only Python standard library:
+# - sys
+# - time
+# - random
+#
+# Simply run with: python3 adventure_game.py
+
